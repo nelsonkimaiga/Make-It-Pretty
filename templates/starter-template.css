@@ -11,7 +11,7 @@ body {
   text-align: center;
   background-image:
   position: relative;
-  background: #000 url("") center center;
+  background: #000 url("img/crib.jpg") center center;
   width: 100%;
   height: 100%;
   background-size: cover;
@@ -21,6 +21,7 @@ body {
   font-size: 72px;
   line-height: 1;
   font-weight: bold;
+  color: white;
 }
 .jumbotron .btn {
   font-size: 21px;
